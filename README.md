@@ -1,6 +1,6 @@
 # 🧠 Graph Editor with Algorithm Visualizer
 
-> An interactive **Graph Editor** built with JavaScript to create, edit, and visualize graph structures and algorithms like **Dijkstra**, **Prim's**, and **Kruskal's** in the browser.
+> An interactive **Graph Editor** built with JavaScript to create, edit, and visualize graph structures and algorithms like **Dijkstra**, **BFS**, **DFS** and **Bellman Ford's** in the browser.
 
 ![Graph Editor Screenshot](![Screenshot 2025-05-30 023606](https://github.com/user-attachments/assets/d7ff558f-e5ff-47e9-8be2-a8aaef4e807c)) <!-- Add a real screenshot if available -->
 
@@ -33,8 +33,8 @@ It's a powerful educational and demonstration tool for learning **graph theory**
 
 | Frontend | Libraries/Tools |
 |----------|-----------------|
-| HTML5    | DOM API         |
-| CSS3     | Custom Styling  |
+| HTML5    | CANVAS API      |
+| CSS3     | BOOTSTRAP & Custom styling  |
 | JavaScript | Canvas API, Graph Logic, Visualization Code |
 
 ---
