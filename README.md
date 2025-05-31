@@ -45,4 +45,4 @@ It's a powerful educational and demonstration tool for learning **graph theory**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ajaykumar81536/graph-editor-js.git
+   git clone https://github.com/ajaykumar81536/Graph_Editor--Web_based_Tool.git
